@@ -1,0 +1,9 @@
+@import './a.css';
+h1 {
+    background:red
+}
+.box{
+    width:100px;
+    height: 100px;
+    background:#009872;
+}
